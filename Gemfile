@@ -36,6 +36,12 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'devise'
 
+gem 'twitter-bootstrap-rails'
+gem 'jquery-rails'
+
+gem 'bootstrap-sass'
+gem 'devise-bootstrap-views'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'

@@ -42,6 +42,8 @@ gem 'jquery-rails'
 gem 'bootstrap-sass'
 gem 'devise-bootstrap-views'
 
+gem "stock_quote", '~> 2.0.0'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'

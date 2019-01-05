@@ -43,6 +43,7 @@ gem 'bootstrap-sass'
 gem 'devise-bootstrap-views'
 
 gem "stock_quote", '~> 2.0.0'
+gem "font-awesome-rails"
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
